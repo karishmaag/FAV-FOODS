@@ -1,0 +1,116 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color:white;
+}
+.container{
+    background-color: white;
+    width: 100vw;
+    height: 140vh;
+    display: flex;
+    flex-direction: column;
+    margin: 40px 0 0 0;
+}
+.div-1{
+    background-color: WHITE;
+    width: 80vw;
+    height:35vh;
+    border: 2px solid white;
+    text-align: center;
+    font-size:1.5em ;
+    font-style: oblique;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: beige;
+    
+
+
+}
+.div-1 h1{
+    position: absolute;
+    
+}
+.div-2{
+    background-color:orange;
+    width:80vw;
+    height:35vh;
+    border: 2px solid white;
+    text-align: center;
+    font-size:0.7m ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-style: italic;
+    
+
+    
+}
+#pizza{
+    font-size: 1.0em;
+}
+.div-3{
+    background-color: purple;
+    width: 80vw;
+    height:35vh;
+    border: 1px solid white;
+    display: flex;
+    font-size:0.7em;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-style: italic;
+    
+    
+}
+#fried{
+    font-size: 1.0em;
+}
+.div-4{
+    background-color:rgb(40, 106, 144);
+    width: 80vw;
+    height:35vh;
+    border: 2px solid white;
+    display: flex;
+    font-size:0.7em;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-style: italic;
+    
+   
+}
+#salad{
+    font-size: 1.0em;
+}
+.image{
+    height:40vh;
+    width:80vw ;
+
+}
+.image1{
+    height:20vh;
+    width:30vw;
+    border:3px solid white;
+    padding: 5px;
+}
+
+.image2{
+    
+    height:20vh;
+    width:30vw ;
+    border:3px solid white;
+    padding: 5px;
+}
+.image3{
+   
+    height:20vh;
+    width:30vw;
+    border:3px solid white;
+    padding: 5px;
+}
